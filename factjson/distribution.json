@@ -1,0 +1,7 @@
+{
+    "type": "distribution", 
+    "measure": [{"field": "Sales", "aggregate": "none"}],  
+    "subspace": [{"field": "Category", "value": "SUV"}], 
+    "breakdown": ["Brand"], 
+    "focus": []
+}

@@ -1,0 +1,7 @@
+{
+    "type": "proportion", 
+    "measure": [{"field": "Sales", "aggregate": "sum"}], 
+    "subspace": [{"field": "Category", "value": "SUV"}], 
+    "breakdown": ["Brand"], 
+    "focus": [{"field": "Brand", "value": "Ford"}]
+}

@@ -1,0 +1,5 @@
+{
+    "type": "value", 
+    "measure": [{"field": "Sales", "aggregate": "min"}], 
+    "subspace": [{"field": "Category", "value": "Sporty"}]
+}

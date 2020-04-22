@@ -1,0 +1,7 @@
+{
+    "type": "rank", 
+    "measure": [{"field": "Sales", "aggregate": "sum"}], 
+    "subspace": [{"field": "Brand", "value": "BMW"}], 
+    "breakdown": ["Category"], 
+    "focus": []
+}

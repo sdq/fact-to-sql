@@ -1,0 +1,7 @@
+{
+    "type":"outlier",
+    "measure":[{"field":"Sales","aggregate":"sum"}],
+    "subspace":[],
+    "breakdown":["Year"],
+    "focus":[{"field":"Year","value":"2007"}]
+}

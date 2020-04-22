@@ -1,0 +1,7 @@
+{
+    "type": "difference", 
+    "measure": [{"field": "Sales", "aggregate": "sum"}], 
+    "subspace": [], 
+    "breakdown": ["Category"], 
+    "focus": [{"field": "Category", "value": "SUV"}, {"field": "Category", "value": "MPV"}]
+}

@@ -1,0 +1,6 @@
+{
+    "type":"association",
+    "measure":[{"field":"Sales","aggregate":"max"}, {"field":"Sales","aggregate":"sum"}],
+    "subspace":[{"field": "Brand", "value": "Ford"}],
+    "breakdown":["Year"]
+}

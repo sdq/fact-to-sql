@@ -1,0 +1,7 @@
+{
+    "type": "extreme", 
+    "measure": [{"field": "Sales", "aggregate": "sum"}], 
+    "subspace": [], 
+    "breakdown": ["Category"], 
+    "focus": [{"field":"Category","value":"max"}]
+}

@@ -1,0 +1,7 @@
+{
+    "type": "categorization", 
+    "measure": [], 
+    "subspace": [{"field": "Category", "value": "SUV"}], 
+    "breakdown": ["Brand"], 
+    "focus": []
+}

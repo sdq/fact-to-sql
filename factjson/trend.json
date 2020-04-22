@@ -1,0 +1,7 @@
+{
+    "type": "trend", 
+    "measure": [{"field": "Sales", "aggregate": "sum"}], 
+    "subspace": [{"field": "Brand", "value": "Ford"}], 
+    "breakdown": ["Year"], 
+    "focus": []
+}
